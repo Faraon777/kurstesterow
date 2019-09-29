@@ -1,0 +1,4 @@
+garaż
+kuchnia
+salon
+sypialnie
